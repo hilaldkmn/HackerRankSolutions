@@ -1,4 +1,4 @@
-package com.testinium.StdinandStdout_Solutions;
+package com.testinium.JavaIntroduction.StdinandStdout_Solutions;
 
 import java.util.Scanner;
 

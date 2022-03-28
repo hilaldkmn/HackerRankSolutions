@@ -1,4 +1,4 @@
-package com.testinium.OutputFormatting_Solutions;
+package com.testinium.JavaIntroduction.OutputFormatting_Solutions;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.testinium.CurrencyFormatter_Solutions;
+package com.testinium.JavaIntroduction.CurrencyFormatter_Solutions;
 
 import java.text.NumberFormat;
 import java.util.Locale;

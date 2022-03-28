@@ -1,4 +1,4 @@
-package com.testinium.IfElse_Solutions;
+package com.testinium.JavaIntroduction.IfElse_Solutions;
 
 import java.util.*;
 

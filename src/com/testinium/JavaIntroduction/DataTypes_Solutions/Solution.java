@@ -1,4 +1,4 @@
-package com.testinium.DataTypes_Solutions;
+package com.testinium.JavaIntroduction.DataTypes_Solutions;
 
 import java.util.Scanner;
 

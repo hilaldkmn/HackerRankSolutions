@@ -1,4 +1,4 @@
-package com.testinium.StaticInitializerBlock_Solutions;
+package com.testinium.JavaIntroduction.StaticInitializerBlock_Solutions;
 import java.util.Scanner;
 
 public class Solution {

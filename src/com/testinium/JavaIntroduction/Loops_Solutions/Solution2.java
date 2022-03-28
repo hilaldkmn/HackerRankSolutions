@@ -1,4 +1,4 @@
-package com.testinium.Loops_Solutions;
+package com.testinium.JavaIntroduction.Loops_Solutions;
 
 import java.util.*;
 

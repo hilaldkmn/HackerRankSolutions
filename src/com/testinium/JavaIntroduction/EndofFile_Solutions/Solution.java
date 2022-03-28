@@ -1,4 +1,4 @@
-package com.testinium.EndofFile_Solutions;
+package com.testinium.JavaIntroduction.EndofFile_Solutions;
 
 import java.util.Scanner;
 
