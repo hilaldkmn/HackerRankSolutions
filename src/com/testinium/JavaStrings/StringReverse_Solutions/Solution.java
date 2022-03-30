@@ -1,4 +1,4 @@
-package com.testinium.JavaStrings.StringReverse;
+package com.testinium.JavaStrings.StringReverse_Solutions;
 
 import java.util.*;
 
