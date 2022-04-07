@@ -13,6 +13,7 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+src/com/testinium/image/twod.jpg
 # AWS User-specific
 .idea/**/aws.xml
 
