@@ -1,4 +1,4 @@
-package com.testinium.DataStructures.OneDArray;
+package com.testinium.DataStructures.OneDArray_Solutions;
 import java.util.*;
 
 public class Solution {

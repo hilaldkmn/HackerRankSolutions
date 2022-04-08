@@ -1,4 +1,4 @@
-package com.testinium.DataStructures.TwoDArray;
+package com.testinium.DataStructures.TwoDArray_Solutions;
 import java.util.Scanner;
 
 public class Solution {
